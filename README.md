@@ -55,15 +55,14 @@ As metas do JornaTEC seguem o modelo SMART (Específicas, Mensuráveis, Alcanç�
 ---
 
 
-## 📸 Screenshots (adicione aqui)
+## 📸 Screenshots 
 
 
-![Tela inicial](https://github.com/user-attachments/assets/3dd528cb-86dd-4fac-9f02-4c35cfe486bd))
+![Tela inicial](https://github.com/user-attachments/assets/3dd528cb-86dd-4fac-9f02-4c35cfe486bd)
 
 ![Área de login](https://github.com/user-attachments/assets/11081355-8fa4-4b17-8ad0-807ceaa9743a)
 
 ![Lista de notícias](https://github.com/user-attachments/assets/5d40ae17-4054-48f8-964c-e766eb2f3610)
-
 
 
 ---
